@@ -11,7 +11,5 @@ Site institucional da ONG Arca da Aliança, com agenda de atividades, projetos s
 - Instagram: [@Ong_arcadaalianca](https://instagram.com/Ong_arcadaalianca)
 - TikTok: [@ong.arca.da.alianca0](https://tiktok.com/@ong.arca.da.alianca0)
 
-## Publicação
-O site é uma página estática e pode ser publicado pelo GitHub Pages usando a branch `main` e a pasta raiz (`/`).
 
 > Observação: as imagens da galeria estão configuradas com fotos ilustrativas remotas. Substitua as URLs em `index.html` pelas fotos oficiais da ONG quando elas estiverem disponíveis no repositório.

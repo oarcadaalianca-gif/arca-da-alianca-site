@@ -12,4 +12,3 @@ Site institucional da ONG Arca da Aliança, com agenda de atividades, projetos s
 - TikTok: [@ong.arca.da.alianca0](https://tiktok.com/@ong.arca.da.alianca0)
 
 
-> Observação: as imagens da galeria estão configuradas com fotos ilustrativas remotas. Substitua as URLs em `index.html` pelas fotos oficiais da ONG quando elas estiverem disponíveis no repositório.
